@@ -1,0 +1,5 @@
+{
+    "deno.enabled": true,
+    "deno.lint": true,
+    "deno.unstable": true,
+}
